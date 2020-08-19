@@ -7,8 +7,16 @@ namespace IocDemo
         static void Main(string[] args)
         {
             string msg = "v1qwertyuiopasdfghjklzxcvb";
-            GreetMessageService service = new GreetMessageService();
+            #region V1.0
+            // GreetMessageService service = new GreetMessageService();
+            // service.Greet(msg);
+            #endregion
+
+            #region V2.0
+            GreetMessageService service = new GreetMessageService(SendToolType.Telephone);
             service.Greet(msg);
+            #endregion
+
         }
     }
 }

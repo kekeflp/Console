@@ -1,6 +1,7 @@
+
 namespace IocDemo
 {
-    public class EmailHelper
+    public class EmailHelper: ISendable
     {
         public void Send(string msg)
         {

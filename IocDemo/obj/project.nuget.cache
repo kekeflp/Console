@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "lBSvAE+87BJryIL3QZxMwq17dmiPszLNhuEMDY+BF09kiNQrAAoBvdN5RndSyno44y0OqWKDML2t2sYbLlYZcw==",
+  "dgSpecHash": "8UR/lZmcb02TYroFxLR7B7BTia38eifqLOo2d2EEDBNgH7wqAreQZQIdrsS0E9qhVkPy+Xr/7MsmDxvU6p6iKg==",
   "success": true,
-  "projectFilePath": "D:\\VSCode\\IocDemo\\IocDemo.csproj",
+  "projectFilePath": "D:\\VSCode\\Console\\IocDemo\\IocDemo.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

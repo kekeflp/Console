@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\VSCode\\IocDemo\\IocDemo.csproj": {}
+    "D:\\VSCode\\Console\\IocDemo\\IocDemo.csproj": {}
   },
   "projects": {
-    "D:\\VSCode\\IocDemo\\IocDemo.csproj": {
+    "D:\\VSCode\\Console\\IocDemo\\IocDemo.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\VSCode\\IocDemo\\IocDemo.csproj",
+        "projectUniqueName": "D:\\VSCode\\Console\\IocDemo\\IocDemo.csproj",
         "projectName": "IocDemo",
-        "projectPath": "D:\\VSCode\\IocDemo\\IocDemo.csproj",
+        "projectPath": "D:\\VSCode\\Console\\IocDemo\\IocDemo.csproj",
         "packagesPath": "C:\\Users\\kekef\\.nuget\\packages\\",
-        "outputPath": "D:\\VSCode\\IocDemo\\obj\\",
+        "outputPath": "D:\\VSCode\\Console\\IocDemo\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\kekef\\AppData\\Roaming\\NuGet\\NuGet.Config",

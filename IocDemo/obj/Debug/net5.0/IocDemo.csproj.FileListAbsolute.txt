@@ -11,3 +11,16 @@ D:\VSCode\IocDemo\obj\Debug\net5.0\IocDemo.csproj.CoreCompileInputs.cache
 D:\VSCode\IocDemo\obj\Debug\net5.0\IocDemo.dll
 D:\VSCode\IocDemo\obj\Debug\net5.0\IocDemo.pdb
 D:\VSCode\IocDemo\obj\Debug\net5.0\IocDemo.genruntimeconfig.cache
+D:\VSCode\Console\IocDemo\obj\Debug\net5.0\IocDemo.csprojAssemblyReference.cache
+D:\VSCode\Console\IocDemo\obj\Debug\net5.0\IocDemo.AssemblyInfoInputs.cache
+D:\VSCode\Console\IocDemo\obj\Debug\net5.0\IocDemo.AssemblyInfo.cs
+D:\VSCode\Console\IocDemo\obj\Debug\net5.0\IocDemo.csproj.CoreCompileInputs.cache
+D:\VSCode\Console\IocDemo\obj\Debug\net5.0\IocDemo.dll
+D:\VSCode\Console\IocDemo\obj\Debug\net5.0\IocDemo.pdb
+D:\VSCode\Console\IocDemo\bin\Debug\net5.0\IocDemo.exe
+D:\VSCode\Console\IocDemo\bin\Debug\net5.0\IocDemo.deps.json
+D:\VSCode\Console\IocDemo\bin\Debug\net5.0\IocDemo.runtimeconfig.json
+D:\VSCode\Console\IocDemo\bin\Debug\net5.0\IocDemo.runtimeconfig.dev.json
+D:\VSCode\Console\IocDemo\bin\Debug\net5.0\IocDemo.dll
+D:\VSCode\Console\IocDemo\bin\Debug\net5.0\IocDemo.pdb
+D:\VSCode\Console\IocDemo\obj\Debug\net5.0\IocDemo.genruntimeconfig.cache
