@@ -1,0 +1,13 @@
+D:\VSCode\IocDemo\bin\Debug\net5.0\IocDemo.exe
+D:\VSCode\IocDemo\bin\Debug\net5.0\IocDemo.deps.json
+D:\VSCode\IocDemo\bin\Debug\net5.0\IocDemo.runtimeconfig.json
+D:\VSCode\IocDemo\bin\Debug\net5.0\IocDemo.runtimeconfig.dev.json
+D:\VSCode\IocDemo\bin\Debug\net5.0\IocDemo.dll
+D:\VSCode\IocDemo\bin\Debug\net5.0\IocDemo.pdb
+D:\VSCode\IocDemo\obj\Debug\net5.0\IocDemo.csprojAssemblyReference.cache
+D:\VSCode\IocDemo\obj\Debug\net5.0\IocDemo.AssemblyInfoInputs.cache
+D:\VSCode\IocDemo\obj\Debug\net5.0\IocDemo.AssemblyInfo.cs
+D:\VSCode\IocDemo\obj\Debug\net5.0\IocDemo.csproj.CoreCompileInputs.cache
+D:\VSCode\IocDemo\obj\Debug\net5.0\IocDemo.dll
+D:\VSCode\IocDemo\obj\Debug\net5.0\IocDemo.pdb
+D:\VSCode\IocDemo\obj\Debug\net5.0\IocDemo.genruntimeconfig.cache

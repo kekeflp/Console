@@ -1,0 +1,70 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\dotnet\\Console\\ConsoleUserManagerSystem\\ConsoleUserManagerSystem.csproj": {}
+  },
+  "projects": {
+    "D:\\dotnet\\Console\\ConsoleUserManagerSystem\\ConsoleUserManagerSystem.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\dotnet\\Console\\ConsoleUserManagerSystem\\ConsoleUserManagerSystem.csproj",
+        "projectName": "ConsoleUserManagerSystem",
+        "projectPath": "D:\\dotnet\\Console\\ConsoleUserManagerSystem\\ConsoleUserManagerSystem.csproj",
+        "packagesPath": "C:\\Users\\kekef\\.nuget\\packages\\",
+        "outputPath": "D:\\dotnet\\Console\\ConsoleUserManagerSystem\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\kekef\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "dependencies": {
+            "System.Data.Common": {
+              "target": "Package",
+              "version": "[4.3.0, )"
+            },
+            "System.Data.SqlClient": {
+              "target": "Package",
+              "version": "[4.8.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100-preview.3.20216.6\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
