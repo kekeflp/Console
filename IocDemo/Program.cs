@@ -25,7 +25,10 @@ namespace IocDemo
             // service2.Greet(msg);
             #endregion
 
-           
+            #region V4.0-IOC-工厂模式
+            GreetMessageService service = new GreetMessageService(SendToolFactory.GetInstance());
+            service.Greet(msg);
+            #endregion
         }
     }
 }
