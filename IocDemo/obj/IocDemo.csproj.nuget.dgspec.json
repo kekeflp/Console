@@ -1,28 +1,26 @@
 {
   "format": 1,
   "restore": {
-    "D:\\VSCode\\Console\\IocDemo\\IocDemo.csproj": {}
+    "D:\\vscode\\Console\\IocDemo\\IocDemo.csproj": {}
   },
   "projects": {
-    "D:\\VSCode\\Console\\IocDemo\\IocDemo.csproj": {
+    "D:\\vscode\\Console\\IocDemo\\IocDemo.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\VSCode\\Console\\IocDemo\\IocDemo.csproj",
+        "projectUniqueName": "D:\\vscode\\Console\\IocDemo\\IocDemo.csproj",
         "projectName": "IocDemo",
-        "projectPath": "D:\\VSCode\\Console\\IocDemo\\IocDemo.csproj",
+        "projectPath": "D:\\vscode\\Console\\IocDemo\\IocDemo.csproj",
         "packagesPath": "C:\\Users\\kekef\\.nuget\\packages\\",
-        "outputPath": "D:\\VSCode\\Console\\IocDemo\\obj\\",
+        "outputPath": "D:\\vscode\\Console\\IocDemo\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\kekef\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 20.1.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net5.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\DevExpress 20.1\\Components\\System\\Components\\Packages": {},
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },

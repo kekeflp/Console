@@ -19,17 +19,31 @@ namespace IocDemo
         #endregion
 
         #region V2.0需求-内容
+        // ISendable greetTool;
+        // public GreetMessageService(SendToolType sendToolType)
+        // {
+        //     if (sendToolType == SendToolType.Email)
+        //     {
+        //         greetTool = new EmailHelper();
+        //     }
+        //     else if (sendToolType == SendToolType.Telephone)
+        //     {
+        //         greetTool = new TelephoneHelper();
+        //     }
+        // }
+
+        // public void Greet(string message)
+        // {
+        //     greetTool.Send(message);
+        // }
+        #endregion
+
+        #region V3.0
         ISendable greetTool;
-        public GreetMessageService(SendToolType sendToolType)
+
+        public GreetMessageService(ISendable sendtool)
         {
-            if (sendToolType == SendToolType.Email)
-            {
-                greetTool = new EmailHelper();
-            }
-            else if (sendToolType == SendToolType.Telephone)
-            {
-                greetTool = new TelephoneHelper();
-            }
+            greetTool = sendtool;
         }
 
         public void Greet(string message)
@@ -41,10 +55,10 @@ namespace IocDemo
     }
 
     #region V2.0需求-内容
-    public enum SendToolType
-    {
-        Email,
-        Telephone,
-    }
+    // public enum SendToolType
+    // {
+    //     Email,
+    //     Telephone,
+    // }
     #endregion
 }
